@@ -1,0 +1,10 @@
+hr{
+    color: rgb(255, 255, 255);
+    width: 75%;
+}
+
+
+.cards-home{
+    align-items: center;
+    justify-content: center;
+}

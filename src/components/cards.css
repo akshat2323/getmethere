@@ -1,0 +1,11 @@
+.cards{
+    color: rgb(255, 255, 255);
+}
+
+
+.card{
+    width: 18rem;
+    background: rgba(0, 0, 0, 0.322);
+    border: 0.1px solid white;
+    backdrop-filter: saturate(180%) blur(30px);
+}
