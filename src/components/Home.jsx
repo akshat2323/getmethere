@@ -9,7 +9,7 @@ function Home() {
     return (<div>
         <Navbar></Navbar>
         <div class="videoWrapper">
-            <video width="" height="550" autoPlay="true" loop="true" muted="true" class="custom-video">
+            <video width="" height="550" autoPlay={true} loop={true} muted={true} class="custom-video">
                 <source src={vid} type="video/mp4" />
             </video>
             <hr />
